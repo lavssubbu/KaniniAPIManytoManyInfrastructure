@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\bin\Debug\net8.0\APIManytoManyKaniniSln.Application.deps.json
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\bin\Debug\net8.0\APIManytoManyKaniniSln.Application.dll
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\bin\Debug\net8.0\APIManytoManyKaniniSln.Application.pdb
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\obj\Debug\net8.0\APIManytoManyKaniniSln.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\obj\Debug\net8.0\APIManytoManyKaniniSln.Application.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\obj\Debug\net8.0\APIManytoManyKaniniSln.Application.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\obj\Debug\net8.0\APIManytoManyKaniniSln.Application.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\obj\Debug\net8.0\APIManytoManyKaniniSln.Application.sourcelink.json
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\obj\Debug\net8.0\APIManytoManyKaniniSln.Application.dll
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\obj\Debug\net8.0\refint\APIManytoManyKaniniSln.Application.dll
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\obj\Debug\net8.0\APIManytoManyKaniniSln.Application.pdb
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\obj\Debug\net8.0\ref\APIManytoManyKaniniSln.Application.dll
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\bin\Debug\net8.0\APIManytoManyKaniniSln.Domain.dll
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\bin\Debug\net8.0\APIManytoManyKaniniSln.Domain.pdb
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\obj\Debug\net8.0\APIManytoManyKaniniSln.Application.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\APIManytoManyKaniniSln\APIManytoManyKaniniSln.Application\obj\Debug\net8.0\APIManyt.250047CA.Up2Date
